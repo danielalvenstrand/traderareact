@@ -1,0 +1,88 @@
+{
+"products": [
+        {
+            "id": 1001,
+            "title": "Back to the Future",
+            "price": 68,
+            "currency": "SEK",
+            "image": "https://upload.wikimedia.org/wikipedia/en/a/af/BackToTheFutureNESBoxart.jpg"
+        },
+        {
+            "id": 1002,
+            "title": "Balloon Fight",
+            "price": 19,
+            "currency": "SEK",
+            "image": "https://upload.wikimedia.org/wikipedia/en/a/a8/BalloonFightnesboxart.jpg"
+        },
+        {
+            "id": 1003,
+            "title": "Cobra Triangle",
+            "price": 79,
+            "currency": "SEK",
+            "image": "https://upload.wikimedia.org/wikipedia/en/b/b5/Cobratriangle.jpg"
+        },
+        {
+            "id": 1004,
+            "title": "Excite Bike",
+            "price": 129,
+            "currency": "SEK",
+            "image": "https://upload.wikimedia.org/wikipedia/en/f/f8/Excitebike_cover.jpg"
+        },
+        {
+            "id": 1005,
+            "title": "Mega Man",
+            "price": 129,
+            "currency": "SEK",
+            "image": "https://upload.wikimedia.org/wikipedia/en/a/a7/Megaman_nes_pal.jpg"
+        },
+        {
+            "id": 1006,
+            "title": "Mega Man 2",
+            "price": 129,
+            "currency": "SEK",
+            "image": "https://upload.wikimedia.org/wikipedia/en/b/be/Megaman2_box.jpg"
+        },
+        {
+            "id": 1007,
+            "title": "Pirates",
+            "price": 89,
+            "currency": "SEK",
+            "image": "https://upload.wikimedia.org/wikipedia/en/4/46/Sid_Meier%27s_Pirates%21_%281987%29_Coverart.png"
+        },
+        {
+            "id": 1008,
+            "title": "North & South",
+            "price": 39,
+            "currency": "SEK",
+            "image": "https://upload.wikimedia.org/wikipedia/en/7/72/North_%26_South_Coverart.png"
+        },
+        {
+            "id": 1009,
+            "title": "Popeye",
+            "price": 109,
+            "currency": "SEK",
+            "image": "https://upload.wikimedia.org/wikipedia/en/8/8e/Popeye_arcadeflyer.PNG"
+        },
+        {
+            "id": 1010,
+            "title": "Punch-Out!!",
+            "price": 219,
+            "currency": "SEK",
+            "image": "https://upload.wikimedia.org/wikipedia/en/3/3d/Punch-out_mrdream_boxart.PNG"
+        },
+        {
+            "id": 1011,
+            "title": "Super Mario Bros",
+            "price": 600,
+            "currency": "SEK",
+            "image": "https://upload.wikimedia.org/wikipedia/en/0/03/Super_Mario_Bros._box.png"
+        },
+        {
+            "id": 1012,
+            "title": "The Legend of Zelda",
+            "price": 219,
+            "currency": "SEK",
+            "image": "https://upload.wikimedia.org/wikipedia/en/4/41/Legend_of_zelda_cover_%28with_cartridge%29_gold.png"
+        }
+    ]
+    }
