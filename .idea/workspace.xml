@@ -2,38 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1b3e7d75-276b-4ce7-8681-3d1b2d19445a" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/traderareact.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/manifest.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/products.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/App.actions.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/App.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/App.reducer.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/App.routes.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/App.test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/_App.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/favorite-list/FavoriteList.actions.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/favorite-list/FavoriteList.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/favorite-list/FavoriteList.reducer.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/favorite-list/_FavoriteList.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/index.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/index.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/product-list/ProductList.actions.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/product-list/ProductList.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/product-list/ProductList.reducer.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/product-list/_ProductList.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/product/Product.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/product/_Product.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/registerServiceWorker.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yarn.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -64,16 +34,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="476">
               <caret line="28" column="0" lean-forward="false" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="_FavoriteList.scss" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/favorite-list/_FavoriteList.scss">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="22" column="3" lean-forward="true" selection-start-line="22" selection-start-column="3" selection-end-line="22" selection-end-column="3" />
               <folding />
             </state>
           </provider>
@@ -139,11 +99,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="374">
-              <caret line="22" column="12" lean-forward="false" selection-start-line="22" selection-start-column="12" selection-end-line="22" selection-end-column="12" />
+              <caret line="22" column="8" lean-forward="true" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="8" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="77" lean-forward="true" selection-start-line="0" selection-start-column="77" selection-end-line="0" selection-end-column="77" />
               <folding />
             </state>
           </provider>
@@ -187,6 +157,7 @@
         <option value="$PROJECT_DIR$/src/index.scss" />
         <option value="$PROJECT_DIR$/public/index.html" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -316,12 +287,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1505993612651</updated>
-      <workItem from="1505993614489" duration="13812000" />
+      <workItem from="1505993614489" duration="14194000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13812000" />
+    <option name="totallyTimeSpent" value="14194000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1273" y="30" width="1294" height="1417" extended-state="0" />
@@ -596,7 +567,15 @@
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="374">
-          <caret line="22" column="12" lean-forward="false" selection-start-line="22" selection-start-column="12" selection-end-line="22" selection-end-column="12" />
+          <caret line="22" column="8" lean-forward="true" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="77" lean-forward="true" selection-start-line="0" selection-start-column="77" selection-end-line="0" selection-end-column="77" />
           <folding />
         </state>
       </provider>
