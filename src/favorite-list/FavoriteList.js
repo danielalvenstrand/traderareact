@@ -9,12 +9,16 @@ class FavoriteList extends Component {
         this.props.toggleFavorite(product);
     }
 
+    favoriteSum() {
+        return this.props.products.reduce((sum, product) => sum+=product.price, 0);
+    }
+
     render() {
         return (
             <div className="FavoriteList">
                 <header id="header">
                     <section>
-                        <h1>Product(s) <span className="amount"></span></h1>
+                        <h1>{this.props.products.length} Product(s) <span className="amount">{this.favoriteSum()} SEK</span></h1>
                     </section>
                     <section>
                         <button onClick={this.props.clearFavorites}>Clear all</button>
